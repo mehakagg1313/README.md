@@ -31,13 +31,12 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehakagg1313&show_icons=true&locale=en" alt="mehakagg1313" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehakagg1313&" alt="rahul-aggarwal000005" /></p>
+<!--
 <details>
 <summary>📊 Github Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehakagg1313&show_icons=true&theme=gotham" alt="mehakagg1313 | Stats" />
-
 </details>
-
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/{mehakagg1313}/count.svg)
 
