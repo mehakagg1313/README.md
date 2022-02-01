@@ -31,6 +31,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehakagg1313&show_icons=true&locale=en" alt="mehakagg1313" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehakagg1313&" alt="" /></p>
 
+### 🐢 My Github Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehakagg1313&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div>
+<img align="center" alt = "Mehak Aggarwal GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=mehakagg1313&show_icons=true&theme=tokyonight"/>
+</div>
+<div>
+<img align="center" alt = "Mehak Aggarwal GITHUB STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakagg13131&layout=compact&show_icons=true&theme=tokyonight"/>
+</div>
 
 <details>
 <summary>📊 Github Stats</summary>
