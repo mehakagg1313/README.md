@@ -33,18 +33,14 @@
 
 ### 🐢 My Github Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehakagg1313&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <div>
 <img align="center" alt = "Mehak Aggarwal GITHUB STATS" src="https://github-readme-stats.vercel.app/api?username=mehakagg1313&show_icons=true&theme=tokyonight"/>
 </div>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mehakagg1313&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <div>
-<img align="center" alt = "Mehak Aggarwal GITHUB STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakagg13131&layout=compact&show_icons=true&theme=tokyonight"/>
+<img align="center" alt = "Mehak Aggarwal GITHUB STATS" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehakagg1313&layout=compact&show_icons=true&theme=tokyonight"/>
 </div>
 
-<details>
-<summary>📊 Github Stats</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehakagg1313&show_icons=true&theme=gotham" alt="mehakagg1313 | Stats" />
-</details>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{mehakagg1313}/count.svg)
